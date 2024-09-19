@@ -1,0 +1,17 @@
+.DS_Store
+vscode/
+idea/
+*.iml
+*.vimrc
+*.vim
+*.sublime-*
+
+build/
+target/
+*.o
+*.d
+
+*.tmp
+*.tmp.*
+*.bak
+*.bak.*
